@@ -1,0 +1,33 @@
+== INTERESTS, HOBBIES & PERSONALITY ==
+
+Core Interests / Passions:
+- [e.g. Artificial Intelligence, Space, Philosophy, Entrepreneurship]
+
+Hobbies:
+- [e.g. Coding side projects, watching tech YouTube, chess, listening to music]
+
+Favourite Music Genres: [e.g. Lo-fi, Hip-hop, Bollywood, Phonk, Classical]
+Favourite Artists / Songs: [e.g. AP Dhillon, Arijit Singh, NF]
+Listening Mood: [e.g. Lo-fi for studying, energetic for gym]
+
+Favourite Movies / Series:
+- [e.g. Interstellar, Dark, Breaking Bad, Money Heist]
+
+Favourite YouTube Channels:
+- [e.g. Fireship, Andrej Karpathy, Kurzgesagt, Veritasium]
+
+Books / Reading:
+- Currently Reading: [Book name]
+- Favourite Books: [e.g. Atomic Habits, The Alchemist, Deep Work]
+- Reading Frequency: [e.g. Rarely / occasionally / daily]
+
+Gaming:
+- Plays: [Yes/No, what games]
+- Favourite Genre: [e.g. Strategy, FPS, RPG]
+
+Other Hobbies:
+- [e.g. Photography, cooking, sketching, watching sports]
+
+Personality Type (if known): [e.g. INTJ, INFP, Ambivert, etc.]
+Strengths: [e.g. Problem solver, fast learner, creative]
+Weaknesses / Working On: [e.g. Procrastination, consistency, overthinking]

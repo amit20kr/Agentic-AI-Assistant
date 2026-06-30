@@ -1,0 +1,27 @@
+== SKILLS & TECHNICAL KNOWLEDGE ==
+
+Programming Languages (Proficient): [e.g. Python, JavaScript]
+Programming Languages (Learning): [e.g. Rust, Go]
+Programming Languages (Basic Familiarity): [e.g. C++, Java]
+
+Frameworks & Libraries:
+- Frontend: [e.g. React, HTML/CSS, Tailwind]
+- Backend: [e.g. FastAPI, Node.js, Express]
+- AI/ML: [e.g. LangChain, scikit-learn, PyTorch, HuggingFace]
+- Data: [e.g. Pandas, NumPy, Matplotlib]
+
+Tools & Platforms:
+- IDEs: [e.g. VS Code, PyCharm]
+- Version Control: [e.g. Git, GitHub]
+- Cloud: [e.g. Google Cloud, AWS, Firebase]
+- Databases: [e.g. MySQL, MongoDB, Firebase Firestore]
+- Other: [e.g. Docker, Postman, Linux]
+
+AI / ML Knowledge Level: [e.g. Intermediate - can train models, build RAG pipelines, fine-tune]
+
+Currently Learning / Improving:
+- [Skill or topic]
+- [Skill or topic]
+
+Soft Skills:
+- [e.g. Problem solving, Public speaking, Leadership, Content creation]

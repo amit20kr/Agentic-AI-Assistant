@@ -1,0 +1,27 @@
+== PROJECTS ==
+
+--- Project 1 ---
+Name: [Project name]
+Status: [Completed / In Progress / On Hold]
+Description: [What does this project do?]
+Tech Stack: [Languages, frameworks, tools used]
+Repo / Link: [GitHub URL or local path]
+Key Challenges / Learnings: [What was hard, what did you learn]
+
+--- Project 2 ---
+Name: [Project name]
+Status: [Completed / In Progress / On Hold]
+Description: [What does this project do?]
+Tech Stack: [Languages, frameworks, tools used]
+Repo / Link: [GitHub URL or local path]
+Key Challenges / Learnings: [What was hard, what did you learn]
+
+--- Project 3: Jarvis03 (This AI Assistant) ---
+Name: Jarvis03
+Status: In Progress
+Description: A self-hosted personal AI assistant with web UI. Features three chat modes (General, Realtime, Jarvis), TTS, voice input, vision (camera), image generation, and personal memory via FAISS vector store.
+Tech Stack: FastAPI, Groq (Llama 3.3 70B + 8B + Llama 4 Scout), Tavily, FAISS, HuggingFace, edge-tts, Pollinations.ai
+Location: Desktop/Jarvis03
+Status Notes: [What's working, what's pending, what you want to add next]
+
+--- Add more projects below as needed ---

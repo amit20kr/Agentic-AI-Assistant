@@ -1,0 +1,33 @@
+== CAREER & PROFESSIONAL GOALS ==
+
+Current Status: [e.g. Student looking for internships / Freelancer / Employed]
+
+Short-Term Goals (Next 6 months):
+- [e.g. Complete final year project]
+- [e.g. Get a data science internship]
+- [e.g. Build 2 AI projects for portfolio]
+
+Long-Term Goals (1–3 years):
+- [e.g. Work at a top AI company]
+- [e.g. Launch a SaaS product]
+- [e.g. Master full-stack AI development]
+
+Dream Job / Role: [e.g. AI Engineer, ML Researcher, Full-Stack Developer]
+Dream Companies: [e.g. Google, OpenAI, Anthropic, a startup]
+Preferred Work Mode: [Remote / Hybrid / On-site]
+Preferred Location: [City/Country]
+
+Work Experience:
+- [Company, Role, Duration, Brief description] (or "None so far")
+
+Internships:
+- [Company, Role, Duration] (or "None so far")
+
+Freelance / Side Work:
+- [Type of work, e.g. web dev projects, content writing]
+
+Resume / Portfolio Link: [URL or "Not yet created"]
+
+LinkedIn: [URL]
+GitHub: [URL]
+Personal Website: [URL or "Not yet"]

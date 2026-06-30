@@ -1,0 +1,24 @@
+== EDUCATION ==
+
+Current Status: [e.g. Student / Graduate / Dropout]
+Current Institution: [College/University name]
+Course / Degree: [e.g. B.Tech Computer Science]
+Year / Semester: [e.g. 3rd Year, 5th Semester]
+Expected Graduation: [Month/Year]
+College Location: [City, State]
+
+Previous School (10th): [School name, Board, Year, Percentage/Grade]
+Previous School (12th): [School name, Board, Year, Percentage/Grade]
+
+Key Subjects of Interest: [e.g. Machine Learning, Data Structures, Web Dev]
+Subjects Struggling With: [e.g. Theory of Computation, DBMS]
+
+Certifications / Online Courses Completed:
+- [Course name, Platform, Year]
+- [Course name, Platform, Year]
+
+Certifications In Progress:
+- [Course name, Platform]
+
+Academic Achievements / Awards:
+- [e.g. Rank 1 in semester, Scholarship name, Hackathon winner]

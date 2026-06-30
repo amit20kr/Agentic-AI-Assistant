@@ -1,0 +1,38 @@
+== GOALS, MINDSET & VALUES ==
+
+Life Philosophy (in your own words):
+[e.g. "Work hard in silence, let success make the noise." / What drives you?]
+
+Core Values:
+- [e.g. Honesty, Growth, Family, Freedom, Discipline]
+
+What Success Means to You:
+[e.g. Financial independence + doing work I love + impact on others]
+
+Biggest Motivators:
+- [e.g. My family's sacrifices, proving myself, building something real]
+
+Biggest Fears:
+- [e.g. Wasting time, failing publicly, being average]
+
+Biggest Challenges Right Now:
+- [e.g. Staying consistent, dealing with distractions, finding direction]
+
+Things You Want to Change About Yourself:
+- [e.g. Stop procrastinating, read more, sleep earlier]
+
+Things You're Proud Of:
+- [e.g. Built Jarvis from scratch, self-taught coder, helped friends]
+
+Quotes You Live By:
+- "[Quote]" — [Author]
+- "[Quote]" — [Author]
+
+How You Handle Failure:
+[e.g. Take a break, reflect, then try again / I tend to give up too quickly — working on it]
+
+Decision Making Style:
+[e.g. Overthink first, then decide / Impulsive / Data-driven / Gut-feeling]
+
+What You Want Jarvis to Help You Most With:
+[e.g. Staying on track with goals, coding help, learning new things, mental clarity, daily productivity]

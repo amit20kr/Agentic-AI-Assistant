@@ -1,0 +1,32 @@
+== FREQUENTLY USED THINGS (Quick Reference for Jarvis) ==
+
+Frequently Visited Websites:
+- [e.g. github.com, leetcode.com, claude.ai, youtube.com, chat.openai.com]
+
+Frequently Used Apps:
+- [e.g. VS Code, Chrome, Postman, Spotify, WhatsApp, Notion]
+
+Frequently Searched Topics:
+- [e.g. Python tutorials, AI papers, startup ideas, productivity tips]
+
+Favourite Food Delivery Apps / Restaurants:
+- [e.g. Zomato - prefer biryani from XYZ restaurant]
+
+Frequent Locations:
+- Home: [Address or area]
+- College: [Name and area]
+- Favourite Cafe / Study Spot: [Name, area]
+- Gym: [Name, area] (if applicable)
+
+Regular Contacts (for context in conversations):
+- [Name]: [Relation] — [e.g. study partner, project teammate, mentor]
+- [Name]: [Relation]
+
+Commonly Used Passwords Hint (optional, for your notes only — don't store actual passwords):
+- [e.g. "Email password is same pattern as X"]
+
+Quick Notes / Things to Always Remember:
+- [e.g. I have a weak left knee — don't recommend running exercises]
+- [e.g. I'm on a no-sugar diet currently]
+- [e.g. I prefer dark mode on everything]
+- [e.g. I get easily distracted by YouTube — remind me to close it]

@@ -1,0 +1,37 @@
+== DEVICES & TECH SETUP ==
+
+Primary Laptop / PC:
+- Brand & Model: [e.g. HP Pavilion 15 / Dell Inspiron / Custom build]
+- Processor: [e.g. Intel i5-12th Gen / AMD Ryzen 5]
+- RAM: [e.g. 8GB / 16GB]
+- Storage: [e.g. 512GB SSD + 1TB HDD]
+- GPU: [e.g. NVIDIA GTX 1650 / Integrated Intel]
+- OS: [e.g. Windows 11 / Ubuntu 22 / Dual boot]
+- Condition: [Good / Heating issues / Slow / Needs upgrade]
+
+Smartphone:
+- Model: [e.g. Redmi Note 12 / Samsung A53]
+- OS Version: [e.g. Android 13]
+- Storage: [e.g. 128GB]
+
+Other Devices: [e.g. Tablet, second monitor, mechanical keyboard, earphones/headphones model]
+
+Internet Connection:
+- Type: [WiFi / Hotspot / Broadband]
+- Speed (approx): [e.g. 100 Mbps Jio Fiber]
+- Reliability: [Stable / Sometimes drops]
+
+Coding Environment:
+- Main Editor: [e.g. VS Code]
+- Terminal: [e.g. Windows Terminal / PowerShell / WSL Ubuntu]
+- Browser: [e.g. Chrome, Brave]
+- Extensions/Tools frequently used: [e.g. GitHub Copilot, Prettier, ESLint]
+
+Cloud / Storage:
+- [e.g. Google Drive 15GB free / OneDrive 5GB / External HDD 1TB]
+
+API Keys / Services Active:
+- Groq API: Yes
+- Tavily API: [Yes/No]
+- OpenAI API: [Yes/No]
+- [Others...]

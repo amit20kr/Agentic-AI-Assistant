@@ -1,0 +1,30 @@
+== HEALTH & FITNESS ==
+
+Height: [e.g. 5'9" / 175 cm]
+Weight: [e.g. 68 kg]
+Body Type / Build: [e.g. Slim, Average, Athletic]
+Fitness Goal: [e.g. Lose weight / Build muscle / Stay active / No specific goal]
+
+Current Exercise Routine:
+- [e.g. Walk 30 min daily / No routine currently]
+- [e.g. Gym: Push-Pull-Legs split, 4x a week]
+
+Diet / Food Preferences:
+- Type: [Vegetarian / Non-vegetarian / Eggetarian / Vegan]
+- Favourite Foods: [e.g. Rice, roti, paneer, biryani, pizza]
+- Foods to Avoid: [e.g. Too spicy, onion, garlic]
+- Junk Food Frequency: [e.g. 2–3 times a week]
+- Water Intake: [e.g. ~2 litres/day / not enough]
+
+Known Medical Conditions: [e.g. None / Mild acidity / Back pain]
+Allergies: [e.g. None / Dust allergy]
+Regular Medications: [e.g. None / Vitamin D supplement]
+Glasses / Contacts: [Yes/No, power if relevant]
+
+Mental Health Notes:
+- Stress Level (general): [Low / Medium / High]
+- What causes stress: [e.g. Deadlines, overthinking, comparison]
+- Stress Relief Methods: [e.g. Music, sleep, talking to friends, coding]
+- Anxiety / Depression history: [Optional, only if comfortable]
+
+Sleep Quality: [Good / Average / Poor, any issues like insomnia?]

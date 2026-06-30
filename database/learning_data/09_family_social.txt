@@ -1,0 +1,30 @@
+== FAMILY & SOCIAL CIRCLE ==
+
+Family Structure: [e.g. Nuclear / Joint family]
+Lives With: [e.g. Parents and younger sister]
+
+Family Members:
+- Father: [Name, Age, Occupation, Relationship quality: Close/Normal/Distant]
+- Mother: [Name, Age, Occupation, Relationship quality]
+- Sibling 1: [Name, Age, what they do]
+- [Add more if needed]
+
+Relationship with Family: [e.g. Close to all / Closer to mom / Independent]
+Family Financial Situation: [Middle class / Upper middle class / etc. — helps Jarvis give realistic advice]
+
+Close Friends:
+- [Name, how you know them, city they're in]
+- [Name, how you know them, city they're in]
+(Helps Jarvis refer to them by name in conversations)
+
+Best Friend: [Name, brief context]
+Social Circle Size: [e.g. Small close-knit / Medium / Large]
+Introvert or Extrovert: [e.g. Introvert / Ambivert / Extrovert]
+
+Romantic Status: [Single / In a relationship / Complicated — optional]
+If in a relationship:
+- Partner Name: [Name]
+- Duration: [How long]
+- Long distance: [Yes/No]
+
+Mentors / Inspiring People in Life: [Names, who they are]

@@ -1,0 +1,23 @@
+== PERSONAL IDENTITY ==
+
+Full Name: Amit Kumar
+Preferred Name / Nickname: Amit
+Date of Birth: [DD/MM/YYYY]
+Age: [Your age]
+Gender: [Your gender]
+Blood Group: [e.g. B+]
+Nationality: [e.g. Indian]
+Religion: [Optional]
+Native Language: [e.g. Hindi]
+Other Languages Known: [e.g. English, Bhojpuri]
+
+Current City: [e.g. Patna, Bihar]
+Home Address: [Your full home address]
+PIN Code: [Your area PIN]
+
+Phone Number: [Your number]
+Email Address (Primary): [Your main email]
+Email Address (Secondary): [Optional backup email]
+
+Aadhar Number: [Optional - for reminders only]
+PAN Number: [Optional]

@@ -1,0 +1,30 @@
+== FINANCES & MONEY ==
+
+Monthly Income / Allowance: [e.g. Rs. 5,000 pocket money / Rs. 20,000 from freelance]
+Primary Income Source: [Family support / Part-time job / Freelance / Stipend]
+
+Monthly Expenses (approx):
+- Food: [Rs. amount]
+- Transport: [Rs. amount]
+- Internet / Subscriptions: [Rs. amount]
+- Shopping / Misc: [Rs. amount]
+- Other: [Rs. amount]
+
+Savings Per Month (approx): [Rs. amount or "None currently"]
+Has Bank Account: [Yes/No, which bank]
+UPI / Payments: [e.g. PhonePe, GPay, Paytm]
+
+Active Subscriptions:
+- [e.g. Spotify: Rs.119/month]
+- [e.g. ChatGPT Plus: $20/month]
+- [e.g. GitHub Student Pack: Free]
+
+Financial Goals:
+- Short-term: [e.g. Save Rs. 10,000 for a new SSD]
+- Long-term: [e.g. Be financially independent by age 25]
+
+Major Planned Purchases:
+- [e.g. New laptop, GPU, smartphone]
+
+Investments: [None / SIP / Stocks / Crypto — optional]
+Financial Stress Level: [Low / Medium / High]

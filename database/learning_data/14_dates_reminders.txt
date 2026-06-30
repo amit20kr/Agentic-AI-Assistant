@@ -1,0 +1,28 @@
+== IMPORTANT DATES & REMINDERS ==
+
+Birthdays:
+- My Birthday: [DD/MM]
+- [Person name] Birthday: [DD/MM] — [Relation]
+- [Person name] Birthday: [DD/MM] — [Relation]
+
+Anniversaries:
+- [e.g. Parents' Anniversary: DD/MM]
+- [e.g. Relationship Anniversary: DD/MM] (if applicable)
+
+Academic Deadlines (update regularly):
+- [Assignment/Exam name]: [DD/MM/YYYY]
+- [Semester End Exams]: [Month/Year]
+
+Subscription Renewals:
+- [Service name]: [Renewal date / Monthly]
+
+Important Upcoming Events:
+- [Event name]: [Date] — [Notes]
+
+Personal Goals with Deadlines:
+- [Goal]: Complete by [Date]
+- [Goal]: Complete by [Date]
+
+Recurring Weekly Tasks:
+- [e.g. Sunday: Review week, plan next week]
+- [e.g. Friday: Commit code to GitHub]
